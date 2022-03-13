@@ -1,5 +1,7 @@
 # Kickstarting with Excel
-## Analizing Kickstarter date to find trends
+## Analizing Kickstarter data to find trends
+uikhjkhkhk
+
 ### Purpose
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
