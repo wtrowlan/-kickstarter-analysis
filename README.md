@@ -17,7 +17,10 @@ Using this table I created the following line graph.
 ![image](https://user-images.githubusercontent.com/100768274/158085160-3795d27a-18fa-4922-9a85-03645bca1af7.png)
 ### Challenges and Difficulties Encountered
 ## Results
-- What
-- What can you conclude about the Outcomes based on Goals
-- What are some limitations of this dataset?
-- What are some other possible tables and/or graphs that we could create?
+- From analyzing the Outcomes based on Launch Date I can conclude that over all months more theater Kickstarters were successful than failed. Kickstarters launched in May were the most successful, with the next three being the summer months of June, July and August.
+
+From analyzing the Outcomes based on Goals I can conclude that the goal range of “$20,000 to $24,999 had the highest ratio of success to failure at 84.9%. 
+
+- Some limitations of this dataset is that the outcomes based on Launch date does not beak the theater category down to include only plays. This may provide an overly broad amount of data. A problem with the Outcomes based on goals table and graph is that the higher ranges may have too small of a sample size to be reliable. 
+
+-  Some other possible graphs/tables to create would be some that show the success rate based on what specific past year that it was launched. Another good graph/table would be one that breaks down the data based on country of origin. 
