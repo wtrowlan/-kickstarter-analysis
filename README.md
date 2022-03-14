@@ -10,7 +10,9 @@ From the pivot table I created a line graph of the outcomes throughout a year.
 ![image](https://user-images.githubusercontent.com/100768274/158084621-bc5a9b33-bc94-4eaa-8414-a9afd38debe6.png)
 ### Analysis of Outcomes Based on Goals
 To Analyze how the target goal for the Kickstarter effected the success rate I broke the goal down into the following ranges.
+
 ![image](https://user-images.githubusercontent.com/100768274/158084698-3a986944-0799-4150-96c0-889794ee2e1a.png)
+
 I then populated the ranges by the outcomes of Kickstarter plays. To populate the ranges, I used the COUNTIF function. I filtered the Kickstarters by the range of the goal, the outcome and the subcategory “plays”. From here I tallied up all the outcome and then calculated the percentage for the outcomes. 
 ![image](https://user-images.githubusercontent.com/100768274/158085137-cc6403cc-92de-48b1-b646-b28e4636e3be.png)
 Using this table I created the following line graph.
