@@ -15,8 +15,10 @@ To Analyze how the target goal for the Kickstarter effected the success rate I b
 
 I then populated the ranges by the outcomes of Kickstarter plays. To populate the ranges, I used the COUNTIF function. I filtered the Kickstarters by the range of the goal, the outcome and the subcategory “plays”. From here I tallied up all the outcome and then calculated the percentage for the outcomes. 
 ![image](https://user-images.githubusercontent.com/100768274/158085137-cc6403cc-92de-48b1-b646-b28e4636e3be.png)
-Using this table I created the following line graph.
+Using this table I created the following graph.
+
 ![image](https://user-images.githubusercontent.com/100768274/158085160-3795d27a-18fa-4922-9a85-03645bca1af7.png)
+
 ### Challenges and Difficulties Encountered
 ## Results
 - From analyzing the Outcomes based on Launch Date I can conclude that over all months more theater Kickstarters were successful than failed. Kickstarters launched in May were the most successful, with the next three being the summer months of June, July and August.
