@@ -4,10 +4,14 @@
 To determine the success of Kickstarter projects in relation to their launch dates and funding goals.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-To determine how launch date effects the success of a kick starter I first created a pivot table on the new sheet “Theater Outcomes by Launch Date”. The Pivot table broke down theater Kickstarters by the month they were launched and the outcome. 			
+To determine how launch date effects the success of a kick starter I first created a pivot table on the new sheet “Theater Outcomes by Launch Date”. The Pivot table broke down theater Kickstarters by the month they were launched and the outcome. 	
+
 ![image](https://user-images.githubusercontent.com/100768274/158084544-9c09a192-25b2-48ea-8294-0f6fbad76ce3.png)
+
 From the pivot table I created a line graph of the outcomes throughout a year. 
+
 ![image](https://user-images.githubusercontent.com/100768274/158084621-bc5a9b33-bc94-4eaa-8414-a9afd38debe6.png)
+
 ### Analysis of Outcomes Based on Goals
 To Analyze how the target goal for the Kickstarter effected the success rate I broke the goal down into the following ranges.
 
